@@ -62,7 +62,12 @@ Counter Strike developer mode allows you to control bots, money, weapon selectio
 
 
 ![csgo](https://cloud.githubusercontent.com/assets/10097431/17649359/58811d18-6251-11e6-93e3-1542f3e6ba7e.jpg)
+![css](https://cloud.githubusercontent.com/assets/10097431/17649371/b6ad2f8a-6251-11e6-8bcd-f057f5fb6a25.jpg)<br />
 
+**To nable Developer Console**<br />
+
+![csgodev](https://cloud.githubusercontent.com/assets/10097431/17649385/f8ab6f32-6251-11e6-9f05-be79f38c4317.png)
+![cssdev](https://cloud.githubusercontent.com/assets/10097431/17649396/2f5ab150-6252-11e6-9090-db0500a7a06f.png)
 
 ## Contributing
 
