@@ -6,7 +6,7 @@ Counter Strike developer mode allows you to control bots, money, weapon selectio
 
 ## Features
 
-1. Pro Level player code to paly CS more faster.
+1. Be a Pro player in CS to to play it more faster.
 2. Full control over boat.
 3. Extra money.
 4. More Weapons.
