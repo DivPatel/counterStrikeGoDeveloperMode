@@ -58,6 +58,12 @@ Counter Strike developer mode allows you to control bots, money, weapon selectio
 -Press "8" - Buy G3SG1 Sniper rifle with all grenades.<br />
 -Press "9" - Buy AWP Sniper rifle with all grenades.
 
+##Screenshot
+
+
+![csgo](https://cloud.githubusercontent.com/assets/10097431/17649359/58811d18-6251-11e6-93e3-1542f3e6ba7e.jpg)
+
+
 ## Contributing
 
 1. Fork it!
